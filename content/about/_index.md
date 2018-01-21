@@ -20,4 +20,3 @@ I hate cooking, ironing and gardening and go to great lengths to outsource the s
 
 <br />
 
-[About this site](colophon/)
