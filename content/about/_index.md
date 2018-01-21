@@ -1,17 +1,22 @@
 +++
-date = "2015-08-22T06:42:21-07:00"
+date = "2018-01-21T06:42:21-07:00"
 draft = false
 title = "About"
 
 +++
 
-Along with [Ford Prefect](https://en.wikipedia.org/wiki/Ford_Prefect_\(character\)), Dent barely escapes the Earth's destruction as it is demolished to make way for a *hyperspace bypass*. Arthur spends the next several years, still wearing his dressing gown, helplessly launched from crisis to crisis while trying to straighten out his lifestyle. 
+This website is a personal homepage. I write software and sometimes prolifically when inspired.
 
-> He rather enjoys tea, but seems to have trouble obtaining it in the far reaches of the galaxy. 
+My family's present residence is in The Netherlands where we are staying for the last nine years. Life is busy for my dear wife and myself with two growing boys. I turn 40 in February, 2018.
 
-In time, he learns how to fly and carves a niche for himself as a sandwich-maker.
+I am an Indian citizen and have travelled across the globe, living in some places, breezing through others.
 
-<img src="//10363810_10152460157033162_2368050440812494810_n.jpg" class="profile">
+
+> I enjoy the mountains, beaches, first flush Darjeeling tea and my favourite pastime is walking the streets of old Calcutta, a city which I miss very much. 
+
+I hate cooking, ironing and gardening and go to great lengths to outsource the same to other great humans/bots often at a hefty price.
+
+<img src="https://raw.githubusercontent.com/dwaiba/blogcloudgear/master/content/about/10363810_10152460157033162_2368050440812494810_n.jpg" class="profile">
 
 <br />
 
